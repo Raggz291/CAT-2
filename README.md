@@ -14,4 +14,4 @@ This is a simple e-commerce application built with Django that includes models f
 1. Clone this repository:
    ```bash
    git clone https://github.com/Raggz291/CAT-2
-   cd ecommerce_project
+   cd CAT-2
